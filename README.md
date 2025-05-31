@@ -53,6 +53,14 @@ Register a new user (patient or doctor).
   "is_doctor": false
 }
 ```
+Response:
+```json
+{
+  "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9...",
+  "token_type": "bearer",
+  "message": "User registered successfully"
+}
+```
 
 #### POST /login
 Login and receive JWT token.
