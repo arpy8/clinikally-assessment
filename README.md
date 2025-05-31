@@ -237,16 +237,3 @@ Response:
 7. Login as doctor: `POST /login`
 8. Create recommendation: `POST /recommendations` (with Authorization header)
 9. View recommendation: `GET /recommendation/{uuid}` (public access)
-
-```mermaid
-graph LR
-    A[Register Doctor] --> B[Register Patient]
-    B --> C[Patient Login]
-    C --> D[Submit Rating]
-    D --> E[Submit Review]
-    E --> F[Get Doctors List]
-    F --> G[Doctor Login]
-    G --> H[Create Recommendation]
-    H --> I[Share Link]
-    I --> J[View Recommendation]
-```
