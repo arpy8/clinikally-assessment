@@ -2,10 +2,21 @@
 
 A FastAPI-based backend system that enables customers to rate and review dermatologists, and allows dermatologists to create shareable product recommendations.
 
-> [!NOTE]
-> Additionally, I created a simple frontend using react as well to interact with the backend apis.
+<div align="center">
+  <a href="https://huggingface.co/spaces/arpy8/clinikally-backend">
+    <img src="https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend - Vercel">
+  </a>
+  <a href="https://huggingface.co/spaces/arpy8/clinikally-backend">
+    <img src="https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Backend - HuggingFace">
+  </a>
+  <a href="https://youtu.be/ULA0J_7i3ls">
+    <img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+  </a>
+</div>
 
+<!--
 [![Frontend - Vercel](https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clinikally-demo.arpy8.com/) [![Backend - HuggingFace](https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white)](https://arpy8-clinikally-backend.hf.space)
+-->
 
 ## Setup Instructions
 
@@ -150,7 +161,7 @@ Response:
 ```json
 {
   "uuid": "550e8400-e29b-41d4-a716-446655440000",
-  "doctor_name": "Dr. Gregory House",
+  "doctor_name": "Dr. Hieter",
   "patient_name": "Jane Doe",
   "products": [
     {
