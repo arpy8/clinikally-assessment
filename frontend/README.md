@@ -4,6 +4,9 @@ A modern React/Next.js frontend application for connecting patients with dermato
 
 Deployed Link: [clinikally-demo.arpy8.com](https://clinikally-demo.arpy8.com)
 
+> [ !NOTE ]
+> Sample downloadable and shareable patient report: [View Report](https://clinikally-demo.arpy8.com/recommendation/2b0a8a26-c041-4f95-a2bc-b01d52968937)
+
 ## Installation
 
 1. **Clone the repository**
