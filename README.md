@@ -12,7 +12,7 @@ A FastAPI-based backend system that enables customers to rate and review dermato
     <img src="https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Backend - HuggingFace" style="margin: 0 10px;">
   </a>
     &nbsp;&nbsp;
-  <a href="https://youtu.be/ULA0J_7i3ls">
+  <a href="https://youtu.be/EEeR2ArTbu8">
     <img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo" style="margin: 0 10px;">
   </a>
 
