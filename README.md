@@ -3,16 +3,21 @@
 A FastAPI-based backend system that enables customers to rate and review dermatologists, and allows dermatologists to create shareable product recommendations.
 
 <div align="center">
+
   <a href="https://huggingface.co/spaces/arpy8/clinikally-backend">
-    <img src="https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend - Vercel">
+    <img src="https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend - Vercel" style="margin: 0 10px;">
   </a>
+    &nbsp;&nbsp;
   <a href="https://huggingface.co/spaces/arpy8/clinikally-backend">
-    <img src="https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Backend - HuggingFace">
+    <img src="https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Backend - HuggingFace" style="margin: 0 10px;">
   </a>
+    &nbsp;&nbsp;
   <a href="https://youtu.be/ULA0J_7i3ls">
-    <img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo">
+    <img src="https://img.shields.io/badge/Watch-Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo" style="margin: 0 10px;">
   </a>
+
 </div>
+
 
 <!--
 [![Frontend - Vercel](https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clinikally-demo.arpy8.com/) [![Backend - HuggingFace](https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white)](https://arpy8-clinikally-backend.hf.space)
@@ -234,5 +239,3 @@ Response:
 7. Login as doctor: `POST /login`
 8. Create recommendation: `POST /recommendations` (with Authorization header)
 9. View recommendation: `GET /recommendation/{uuid}` (public access)
-
-Use the Swagger UI at `/docs` for interactive testing with automatic request/response examples.
