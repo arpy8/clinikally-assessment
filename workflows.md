@@ -82,3 +82,16 @@ flowchart TD
     P -->|Yes| Q[Return 404 Error]
     P -->|No| R[Return Recommendation]
 ```
+
+### ER Diagram
+
+```mermaid
+erDiagram
+    USERS ||--o{ RATINGS : gives
+    USERS ||--o{ REVIEWS : writes
+    USERS ||--o| DOCTORS : "may be"
+
+    REVIEWS }o--|| DOCTORS : about
+    RATINGS }o--|| DOCTORS : for
+    DOCTORS ||--o{ RECOMMENDATIONS : has
+```
