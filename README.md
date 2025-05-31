@@ -18,6 +18,9 @@ A FastAPI-based backend system that enables customers to rate and review dermato
 
 </div>
 
+## Diagrams
+All the relevant diagrams are mentioned in [diagrams.md](diagrams.md)
+
 ## Setup Instructions
 
 ### Prerequisites
