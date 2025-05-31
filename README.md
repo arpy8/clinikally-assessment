@@ -4,7 +4,7 @@ A FastAPI-based backend system that enables customers to rate and review dermato
 
 <div align="center">
 
-  <a href="https://huggingface.co/spaces/arpy8/clinikally-backend">
+  <a href="https://clinikally-demo.arpy8.com">
     <img src="https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Frontend - Vercel" style="margin: 0 10px;">
   </a>
     &nbsp;&nbsp;
