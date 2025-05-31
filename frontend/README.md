@@ -2,6 +2,8 @@
 
 A modern React/Next.js frontend application for connecting patients with dermatologists. This application provides an interactive interface for browsing doctors, booking appointments, and managing user accounts.
 
+Deployed Link: [clinikally-demo.arpy8.com](https://clinikally-demo.arpy8.com)
+
 ## Installation
 
 1. **Clone the repository**

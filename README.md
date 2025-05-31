@@ -5,7 +5,7 @@ A FastAPI-based backend system that enables customers to rate and review dermato
 > [!NOTE]
 > Additionally, I created a simple frontend using react as well to interact with the backend apis.
 
-[![Frontend - Vercel](https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://) [![Backend - HuggingFace](https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white)](https://arpy8-clinikally-backend.hf.space)
+[![Frontend - Vercel](https://img.shields.io/badge/Frontend-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://clinikally-demo.arpy8.com/) [![Backend - HuggingFace](https://img.shields.io/badge/Backend-HuggingFace-FF6B00?style=for-the-badge&logo=huggingface&logoColor=white)](https://arpy8-clinikally-backend.hf.space)
 
 ## Setup Instructions
 
@@ -29,12 +29,12 @@ pip install -r requirements.txt
 python main.py
 ```
 
-The API will be available at `http://localhost:8000`
+The API will be available at `http://localhost:7860`
 
 ### Interactive API Documentation
 Local Access:
-- Swagger UI: `http://localhost:8000/docs`
-- ReDoc: `http://localhost:8000/redoc`
+- Swagger UI: `http://localhost:7860/docs`
+- ReDoc: `http://localhost:7860/redoc`
 
 Hosted Access:
 - Swagger UI: `https://arpy8-clinikally-backend.hf.space/docs`
